@@ -1,0 +1,67 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 80px;
+    
+}
+
+h2{
+    color: white;
+    font-size: 50px;
+}
+
+h3{
+    color: white;
+    font: italic 30px bold;
+
+}
+
+.distracted_Boyfriend{
+    border: 3px solid yellow;
+    width: 500px;
+}
+
+.Dogue{
+    border: 3px solid yellow;
+    width: 500px;
+
+}
+
+.Success_Kid{
+    border: 3px solid yellow;
+    width: 500px;
+
+}
+
+.distracted_Boyfriend2{
+    width: 500px;
+    display: block;
+    margin: auto;
+
+}
+
+.dogue2{
+    width: 500px;
+    display: block;
+    margin: auto;
+
+}
+
+.Success_Kid2{
+    width: 500px;
+    display: block;
+    margin: auto;
+
+}
+
+.inicio{ 
+    width: 50px;
+    position: fixed;
+    top: 0;
+    left: 0;
+
+}
